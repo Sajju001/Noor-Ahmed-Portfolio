@@ -18,7 +18,7 @@ document.getElementById('download-resume').addEventListener('click', function(e)
     e.preventDefault();
     alert('Resume download functionality would be implemented here. In a real website, this would trigger a file download.');
     // In a real implementation, you would link to an actual PDF file
-    // window.location.href = 'path/to/resume.pdf';
+    // window.location.href = 'path/to/CV.pdf';
 });
 
 // Hire Me Form Submission
