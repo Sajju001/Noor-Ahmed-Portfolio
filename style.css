@@ -93,7 +93,7 @@ p {
     color: var(--white);
 }
 
-.btn.primary:hover {
+.btn :hover {
     background-color: #2980b9;
 }
 
